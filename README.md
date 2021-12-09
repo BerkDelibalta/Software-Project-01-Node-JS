@@ -3,9 +3,6 @@
 
 ____
 
-<head>
-<title>Task Manager</title>
-</head>
 
 
 <body style="background-color: darkred">
